@@ -10,14 +10,11 @@
 
 */
 
-
-
-
-
+function holaMundo() {
+  return "Saludos";
+}
 
 // Demo
 // function holaMundo() {
 //     return 'Saludos a todos!';
 // }
-
-
